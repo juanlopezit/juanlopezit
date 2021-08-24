@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 my name is Juan Cruz López
+
+### How to reach me: 
+- juanlopezit@hotmail.com
 
 <!--
 **juanlopezit/juanlopezit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
