@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Juan Cruz López
 
-### How to reach me: 
+### Contact me:
 - juanlopezit@hotmail.com
 
 <!--
