@@ -1,7 +1,13 @@
-### Hi there 👋 my name is Juan Cruz López
 
-### Contact me:
-- juanlopezit@hotmail.com
+![](https://aleduran.com/wp-content/uploads/lenguajes-programacion-top.gif)
+
+# Hi there 👋 my name is Juan Cruz López
+ > ## *I seek to develop my experience on a personal and professional level, always looking for new challenges and accomplishing goals :smirk:*
+
+___
+
+### console.log("Contact me"): :+1:
+## :email: <juanlopezit@hotmail.com>
 
 <!--
 **juanlopezit/juanlopezit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
