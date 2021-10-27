@@ -1,5 +1,5 @@
 
-![](https://aleduran.com/wp-content/uploads/lenguajes-programacion-top.gif)
+<img src="https://aleduran.com/wp-content/uploads/lenguajes-programacion-top.gif" width="1200" height="450">
 
 # Hi there 👋 my name is Juan Cruz López
  > ## *I seek to develop my experience on a personal and professional level, always looking for new challenges and accomplishing goals :smirk:*
